@@ -1,0 +1,51 @@
+header{
+    background-color: black;
+    padding: 5px;
+}
+
+body{
+    background-color: deepskyblue;
+}
+
+.slider-img{
+    margin-top: 10px;
+    width: 100%;
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    font-size: x-large;
+    color: white;
+    font-size: 14px;
+}
+
+li{
+    display: inline;
+    padding: 10px;
+    /* border-left: 5px; */
+}
+
+.image{
+    margin-top: 30px;
+    margin-right: 10px;
+    width: 300px;
+    height: auto;
+    float: left;
+}
+
+.p-text{
+    column-count: 4;
+    margin-left: 20px;
+    column-rule: 5px solid black;
+}
+
+.footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 2px;
+}
